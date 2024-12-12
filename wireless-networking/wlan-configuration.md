@@ -1,2 +1,0 @@
-# WLAN Configuration
-

@@ -1,2 +1,0 @@
-# Troubleshooting Wireless Networks
-

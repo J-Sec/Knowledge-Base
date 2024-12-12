@@ -1,2 +1,0 @@
-# Default and Floating Routes
-

@@ -1,2 +1,0 @@
-# VPNs and IPSec
-

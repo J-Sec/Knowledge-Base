@@ -1,2 +1,0 @@
-# Device Hardening Best Practices
-

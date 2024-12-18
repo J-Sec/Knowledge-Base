@@ -4,8 +4,14 @@
 
 ## Introduction to Networking
 
-* [What is Networking?](introduction-to-networking/what-is-networking.md)
-* [Network Models (OSI & TCP/IP)](introduction-to-networking/network-models-osi-and-tcp-ip.md)
+* [Network Models (OSI & TCP/IP)](introduction-to-networking/network-models-osi-and-tcp-ip/README.md)
+  * [OSI Model](introduction-to-networking/network-models-osi-and-tcp-ip/osi-model.md)
+  * [TCP/IP Networking Model](introduction-to-networking/network-models-osi-and-tcp-ip/tcp-ip-networking-model/README.md)
+    * [Physical Layer](introduction-to-networking/network-models-osi-and-tcp-ip/tcp-ip-networking-model/physical-layer.md)
+    * [Data-Link Layer](introduction-to-networking/network-models-osi-and-tcp-ip/tcp-ip-networking-model/data-link-layer.md)
+    * [Network Layer](introduction-to-networking/network-models-osi-and-tcp-ip/tcp-ip-networking-model/network-layer.md)
+    * [Transport Layer](introduction-to-networking/network-models-osi-and-tcp-ip/tcp-ip-networking-model/transport-layer.md)
+    * [Application Layer](introduction-to-networking/network-models-osi-and-tcp-ip/tcp-ip-networking-model/application-layer.md)
 * [Data Flows in Networks (Unicast, Broadcast, Multicast)](introduction-to-networking/data-flows-in-networks-unicast-broadcast-multicast.md)
 
 ## Network Fundamentals
@@ -15,6 +21,17 @@
 * [Network Devices](network-fundamentals/network-devices.md)
 * [Ethernet](network-fundamentals/ethernet.md)
 * [Cabling and Connectors](network-fundamentals/cabling-and-connectors.md)
+
+## Network Design
+
+* [Hierarchical Networks](network-design/hierarchical-networks.md)
+* [Scalable Networks](network-design/scalable-networks/README.md)
+  * [Design For Scalability](network-design/scalable-networks/design-for-scalability.md)
+  * [Plan For Redundancy](network-design/scalable-networks/plan-for-redundancy.md)
+  * [Reduce Failure Domain Size](network-design/scalable-networks/reduce-failure-domain-size.md)
+  * [Tune Routing Protocols](network-design/scalable-networks/tune-routing-protocols.md)
+* [Switch Hardware](network-design/switch-hardware.md)
+* [Router Hardware](network-design/router-hardware.md)
 
 ## IP Addressing
 
@@ -79,8 +96,15 @@
 
 * [Troubleshooting Methodologies](network-management-and-monitoring/troubleshooting-methodologies.md)
 * [Tools for Troubleshooting](network-management-and-monitoring/tools-for-troubleshooting.md)
-* [Logging and Monitoring](network-management-and-monitoring/logging-and-monitoring.md)
-* [Backups and Restorations](network-management-and-monitoring/backups-and-restorations.md)
+* [Logging and Monitoring](network-management-and-monitoring/logging-and-monitoring/README.md)
+  * [Simple Network Management Protocol (SNMP)](network-management-and-monitoring/logging-and-monitoring/simple-network-management-protocol-snmp.md)
+  * [Syslog](network-management-and-monitoring/logging-and-monitoring/syslog.md)
+* [Backups and Restorations](network-management-and-monitoring/backups-and-restorations/README.md)
+  * [Router & Switch File Systems](network-management-and-monitoring/backups-and-restorations/router-and-switch-file-systems.md)
+  * [Backing Up Configurations](network-management-and-monitoring/backups-and-restorations/backing-up-configurations.md)
+  * [Restoring Configurations](network-management-and-monitoring/backups-and-restorations/restoring-configurations.md)
+  * [Password Recovery](network-management-and-monitoring/backups-and-restorations/password-recovery.md)
+  * [IOS Image Management](network-management-and-monitoring/backups-and-restorations/ios-image-management.md)
 * [Network Discovery Protocols](network-management-and-monitoring/network-discovery-protocols/README.md)
   * [Cisco Discovery Protocol (CDP)](network-management-and-monitoring/network-discovery-protocols/cisco-discovery-protocol-cdp.md)
   * [Link Layer Discovery Protocol (LLDP)](network-management-and-monitoring/network-discovery-protocols/link-layer-discovery-protocol-lldp.md)

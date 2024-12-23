@@ -12,7 +12,6 @@ Welcome to the Networking section of my knowledge base. This repository contains
 
 ### Introduction to Networking
 
-* [What is Networking?](broken-reference)
 * [Network Models (OSI & TCP/IP)](introduction-to-networking/network-models-osi-and-tcp-ip/)
 * [Data Flows in Networks (Unicast, Broadcast, Multicast)](introduction-to-networking/data-flows-in-networks-unicast-broadcast-multicast.md)
 
@@ -85,8 +84,8 @@ Welcome to the Networking section of my knowledge base. This repository contains
 
 ### Network Management and Monitoring
 
-* [Troubleshooting Methodologies](network-management-and-monitoring/troubleshooting-methodologies.md)
-* [Tools for Troubleshooting](network-management-and-monitoring/tools-for-troubleshooting.md)
+* [Troubleshooting Methodologies](network-management-and-monitoring/troubleshooting-methodologies/)
+* [Tools for Troubleshooting](broken-reference)
 * [Logging and Monitoring](network-management-and-monitoring/logging-and-monitoring/)
 * [Backups and Restorations](network-management-and-monitoring/backups-and-restorations/)
 * [Network Discovery Protocols](network-management-and-monitoring/network-discovery-protocols/)

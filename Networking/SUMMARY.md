@@ -90,7 +90,12 @@
 * [Network Automation](automation-and-programmability/network-automation.md)
 * [REST APIs](automation-and-programmability/rest-apis.md)
 * [JSON and YAML](automation-and-programmability/json-and-yaml.md)
-* [Software-Defined Networking](automation-and-programmability/software-defined-networking.md)
+
+## Network Virtualisation
+
+* [Cloud Computing](network-virtualisation/cloud-computing.md)
+* [Software-Defined Networking](network-virtualisation/software-defined-networking.md)
+* [Software-Defined Networking](network-virtualisation/software-defined-networking-1.md)
 
 ## Network Management and Monitoring
 

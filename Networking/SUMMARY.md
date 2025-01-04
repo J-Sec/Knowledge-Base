@@ -94,8 +94,9 @@
 ## Network Virtualisation
 
 * [Cloud Computing](network-virtualisation/cloud-computing.md)
-* [Software-Defined Networking](network-virtualisation/software-defined-networking.md)
-* [Software-Defined Networking](network-virtualisation/software-defined-networking-1.md)
+* [Software-Defined Networking](network-virtualisation/software-defined-networking/README.md)
+  * [Controllers](network-virtualisation/software-defined-networking/controllers.md)
+  * [Cisco Application Centric Infrastructure (ACI)](network-virtualisation/software-defined-networking/cisco-application-centric-infrastructure-aci.md)
 
 ## Network Management and Monitoring
 

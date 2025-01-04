@@ -80,7 +80,7 @@ Welcome to the Networking section of my knowledge base. This repository contains
 * [Network Automation](automation-and-programmability/network-automation.md)
 * [REST APIs](automation-and-programmability/rest-apis.md)
 * [JSON and YAML](automation-and-programmability/json-and-yaml.md)
-* [Software-Defined Networking](network-virtualisation/software-defined-networking-1.md)
+* [Software-Defined Networking](broken-reference)
 
 ### Network Management and Monitoring
 

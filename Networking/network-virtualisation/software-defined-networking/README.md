@@ -27,4 +27,25 @@ In **Software-Defined Networking (SDN)**:
 
 By decoupling the control plane from the data plane, SDN enables centralised management, programmability, and dynamic configuration of the network.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-01-02 at 21.24.21.png" alt=""><figcaption><p>Traditional Architecture vs SDN Architecture</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-01-02 at 21.24.21.png" alt=""><figcaption><p>Traditional Architecture vs SDN Architecture</p></figcaption></figure>
+
+## SDN Types
+
+### Device-Based SDN
+
+* The devices are programmable by applications running on the device itself or on a server in the network
+* Cisco OnePK is an example of a device-based SDN
+* It enables programmers to build applications using C, and Java with Python, to integrate and interact with Cisco devices
+
+### Controller-Based SDN
+
+* Uses a centralised controller that has knowledge of all devices in the network
+* The applications can interface with the controller responsible for managing devices and manipulating traffic flows throughout the network
+* The Cisco Open SDN Controller is a commercial distribution of OpenDaylight
+
+### Policy-Based SDN
+
+* Similar to controller-based SDN where a centralised controller has a view of all devices in the network
+* Policy-based SDN includes an additional Policy layer that operates at a higher level of abstraction
+* It uses built-in applications that automate advanced configuration tasks via a guided workflow and user-friendly GUI. No programming skills are required.
+* Cisco APIC-EM is an example of this type of SDN.

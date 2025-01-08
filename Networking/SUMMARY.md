@@ -87,9 +87,10 @@
 
 ## Automation and Programmability
 
-* [Network Automation](automation-and-programmability/network-automation.md)
-* [REST APIs](automation-and-programmability/rest-apis.md)
-* [JSON and YAML](automation-and-programmability/json-and-yaml.md)
+* [APIs](automation-and-programmability/rest-apis.md)
+* [JSON, YAML and XML](automation-and-programmability/json-and-yaml.md)
+* [Configuration Management](automation-and-programmability/configuration-management.md)
+* [IBN and Cisco DNA Centre](automation-and-programmability/ibn-and-cisco-dna-centre.md)
 
 ## Network Virtualisation
 

@@ -26,7 +26,7 @@ JSON (JavaScript Object Notation) is a lightweight, text-based data interchange 
 
 </details>
 
-* JSON is a very popular format used by web services and [APIs](rest-apis.md) to provide public data.
+* JSON is a very popular format used by web services and [APIs](rest-apis/) to provide public data.
 * This is because it is easy to parse and can be used with most modern programming languages, including Python.
 
 ### JSON Syntax Rules

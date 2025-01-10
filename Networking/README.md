@@ -78,7 +78,7 @@ Welcome to the Networking section of my knowledge base. This repository contains
 ### Automation and Programmability
 
 * [Network Automation](broken-reference)
-* [REST APIs](automation-and-programmability/rest-apis.md)
+* [REST APIs](automation-and-programmability/rest-apis/)
 * [JSON and YAML](automation-and-programmability/json-and-yaml.md)
 * [Software-Defined Networking](broken-reference)
 

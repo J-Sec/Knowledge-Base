@@ -90,7 +90,7 @@
 * [APIs](automation-and-programmability/rest-apis/README.md)
   * [REST API](automation-and-programmability/rest-apis/rest-api.md)
 * [JSON, YAML and XML](automation-and-programmability/json-and-yaml.md)
-* [Configuration Management](automation-and-programmability/configuration-management.md)
+* [Configuration Management Tools](automation-and-programmability/configuration-management-tools.md)
 * [IBN and Cisco DNA Centre](automation-and-programmability/ibn-and-cisco-dna-centre.md)
 
 ## Network Virtualisation

@@ -18,7 +18,7 @@
 
 * [Types of Networks](network-fundamentals/types-of-networks.md)
 * [Network Topologies](network-fundamentals/network-topologies.md)
-* [Network Devices](network-fundamentals/network-devices.md)
+* [Network Components](network-fundamentals/network-devices.md)
 * [Ethernet](network-fundamentals/ethernet.md)
 * [Cabling and Connectors](network-fundamentals/cabling-and-connectors.md)
 

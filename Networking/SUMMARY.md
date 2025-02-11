@@ -140,3 +140,7 @@
 * [High Availability](infrastructure-services/high-availability.md)
 * [Load Balancing](infrastructure-services/load-balancing.md)
 * [Redundancy Protocols](infrastructure-services/redundancy-protocols.md)
+
+## Packet Tracer
+
+* [TMA02 Q2](packet-tracer/tma02-q2.md)

@@ -11,7 +11,7 @@
 * PC7 and PC6 can ping each other and their default gateways
 * Can't ping other host or webserver (destination host unavailable)
 * telnet into default gateway (branch 2)
-* routing table shows that ip address of interface S0/1/0 is 192.168.17 in the 192.168.0.16/30 network
+* routing table shows that ip address of interface S0/1/0 is 192.168.0.17 in the 192.168.0.16/30 network
 * cdp neighbors detail command shows that the HUB router is connected via the S0/1/0 interface but with an IP address of 192.168.0.5 which is not in the network of 192.168.0.16/30
 * change ip address of interface to 192.168.0.6
 * can now ping some hosts and the web server from both PC6 and PC7
